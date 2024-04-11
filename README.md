@@ -14,6 +14,6 @@
 
 ### 6. [bmi-calculator](https://rimanshupatel.github.io/javascript-project/bmi-calculator/)
 
-### 7. [bmi-calculator](https://rimanshupatel.github.io/javascript-project/password-toggler/)
+### 7. [password-toggler](https://rimanshupatel.github.io/javascript-project/password-toggler/)
 
 ### **Author - Rimanshu patel**
